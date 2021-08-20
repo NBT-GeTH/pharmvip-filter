@@ -1,0 +1,5 @@
+# HOW TO USE
+
+bash VCF-filter.sh VCF_IN_FILENAME.vcf VCF_OUT_FILENAME.vcf
+
+bash BAM-filter.sh BAM_IN_FILENAME.vcf BAM_OUT_FILENAME.bam
