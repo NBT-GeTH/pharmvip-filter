@@ -6,7 +6,7 @@
 - Python >= 3.7.6
 ### Interface
 ---
-![PharmVIP-Filter Interface](https://github.com/NBT-GeTH/pharmvip-filter/blob/master/macOS/Interface.jpeg)
+![PharmVIP-Filter Interface](https://github.com/NBT-GeTH/pharmvip-filter/blob/main/macOS/Interface.jpeg)
 |file type   |option   |folder name   |filter output file   |filter output file index   |
 |---|---|---|---|---|
 |VCF file   |CPIC   |CPIC_Genes   |***FILE_NAME***_filtered_for_CPIC_genes.vcf.gz   |***FILE_NAME***_filtered_for_CPIC_genes.vcf.gz.tbi   |
